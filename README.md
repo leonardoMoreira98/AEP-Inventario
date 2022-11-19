@@ -13,3 +13,4 @@ Utilizamos também a biblioeteca twig (gerenciador de templates), que fornece um
 
 o Banco de dados utilizado foi o MySQL, utilizamos a bibiolteca Doctrine ORM para gerenciar o acesso a banco de dados, ajudando no
 seleçao e manipulaçao de dados.
+
