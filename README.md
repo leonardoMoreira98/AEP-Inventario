@@ -11,6 +11,6 @@ de segurança, e uma documentação completa e bem explicada.
 Para definar as rotas, utilizei a biblioteca Annotations, que possibilita criar rotas antes da definição dos métodos. 
 Utilizamos também a biblioeteca Twig (gerenciador de templates), que fornece uma sintaxe mais limpa no arquivos de view.
 
-o Banco de dados utilizado foi o MySQL, utilizamos a bibiolteca Doctrine ORM para gerenciar o acesso a banco de dados, ajudando na
+o Banco de dados utilizado foi o MySQL, utilizamos Doctrine ORM para gerenciar o acesso a banco de dados, ajudando na
 seleção e manipulação de dados.
 
